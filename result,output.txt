@@ -1,0 +1,15 @@
+C:\Users\rreddy\Desktop\PlaywrightAssignment>npx playwright test tests/hyland.spec.ts --project=chromium --headed
+
+Running 1 test using 1 worker
+[chromium] › tests\hyland.spec.ts:3:5 › Hyland Careers Job Search
+================================
+Job ID: 2026-14169
+================================
+  1 passed (27.2s)
+
+To open last HTML report run:
+
+  npx playwright show-report
+
+
+C:\Users\rreddy\Desktop\PlaywrightAssignment>
