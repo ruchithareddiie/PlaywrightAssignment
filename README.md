@@ -14,5 +14,11 @@ Automate the Hyland Careers website using Playwright.
 ## Tech Stack
 - Playwright
 - TypeScript
-- VS Code
 - Node.js
+- VS Code
+
+## Run the Project
+
+npm install
+
+npx playwright test tests/hyland.spec.ts --project=chromium --headed
